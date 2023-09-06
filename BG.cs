@@ -7,11 +7,6 @@ public class BG : MonoBehaviour
     // Start is called before the first frame update
     public GameObject TopBorder, BottomBorder;
 
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {
